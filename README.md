@@ -3,9 +3,9 @@ Datasets:
 •	Data_collaped_rat.mat: the MAT format of processed data for rat in vitro from http://dokuwiki.bioinf.jku.at/doku.php/tgp_prepro <br />
 •	Data_collaped_single.mat: the MAT format of processed data for rat in vivo single dose from http://dokuwiki.bioinf.jku.at/doku.php/tgp_prepro <br />
 •	Data_collaped_repeat.mat: the MAT format of processed data for rat in vivo repeated dose from http://dokuwiki.bioinf.jku.at/doku.php/tgp_prepro <br />
-•	Rat_pairs_pathways.mat: the pairwise similarity for 106 toxicity pathways from CTD for rat in vitro system <br />
-•	single_pairs_pathways.mat: the pairwise similarity for 106 toxicity pathways from CTD for rat in vivo single dose system <br />
-•	repeat_pairs_pathways.mat: the pairwise similarity for 106 toxicity pathways from CTD for rat in vivo repeated dose system <br />
+•	Rat_pairs_pathways.mat: the MAT format of pairwise similarity for 106 toxicity pathways from CTD for rat in vitro system <br />
+•	single_pairs_pathways.mat: the MAT format of pairwise similarity for 106 toxicity pathways from CTD for rat in vivo single dose system <br />
+•	repeat_pairs_pathways.mat: the MAT format of pairwise similarity for 106 toxicity pathways from CTD for rat in vivo repeated dose system <br />
 You need gold those MAT files or copy to the directory of the unzip file below
 Scripts <br />
 •	RPank.zip  - the scripts for carrying out PRank analysis among the three assay systems under different time/dose/assay combination <br />
