@@ -10,8 +10,8 @@ You need gold those MAT files or copy to the directory of the unzip file below
 Scripts <br />
 •	RPank.zip  - the scripts for carrying out PRank analysis among the three assay systems under different time/dose/assay combination <br />
 •	ATC.zip – the scripts for therapeutic class analysis and generate stability ratio for each therapeutic category. <br />
-•	POG for KEGG pathway analysis.zip – the KEGG pathway analysis through the DVIAD web application. <br />
-•	Toxicogenomic pathways_CTD_analysis.zip – the concordance among the TGx assay systems based on CTD toxicity pathways. <br />
+•	KEGG pathway analysis.zip – the KEGG pathway analysis through the DVIAD web application. <br />
+•	POG for Toxicity pathways_analysis.zip – the concordance among the TGx assay systems based on CTD toxicity pathways. <br />
 In each zip files, there is a main function to generate results. <br />
 If you have any question, please contact zhichao.liu@fda.hhs.gov. <br />
 
